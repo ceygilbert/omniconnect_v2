@@ -1,0 +1,7 @@
+{
+  "name": "OmniConnect v2.1",
+  "description": "A high-end unified business intelligence dashboard that integrates Facebook Ads, Google Analytics, and WhatsApp communications with AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
